@@ -24,4 +24,9 @@ https://quaiscan.io/
 - How to verify smart contract on Quaiscan?
 - How to add ERC20 to Pelagus wallet?
 
+## Pelagus Feature Requests
+- Contact list
+- Suggest previous addresses when sending Tx
+
+
 
